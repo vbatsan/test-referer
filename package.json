@@ -1,0 +1,16 @@
+{
+  "name": "test-referer",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/vbatsan/test-referer",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
